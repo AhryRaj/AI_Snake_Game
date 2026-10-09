@@ -1,0 +1,7 @@
+# Core Game and GUI
+pygame>=2.0.0
+numpy>=1.19.0
+
+# Deep Q-Network (DQN) & Plotting
+matplotlib>=3.3.0
+tensorflow>=2.0.0
